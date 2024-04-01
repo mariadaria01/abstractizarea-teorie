@@ -1,0 +1,14 @@
+D:\mycode\csharp\abstractizarea\teorie\teorie\bin\Debug\net7.0\teorie.exe
+D:\mycode\csharp\abstractizarea\teorie\teorie\bin\Debug\net7.0\teorie.deps.json
+D:\mycode\csharp\abstractizarea\teorie\teorie\bin\Debug\net7.0\teorie.runtimeconfig.json
+D:\mycode\csharp\abstractizarea\teorie\teorie\bin\Debug\net7.0\teorie.dll
+D:\mycode\csharp\abstractizarea\teorie\teorie\bin\Debug\net7.0\teorie.pdb
+D:\mycode\csharp\abstractizarea\teorie\teorie\obj\Debug\net7.0\teorie.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\abstractizarea\teorie\teorie\obj\Debug\net7.0\teorie.AssemblyInfoInputs.cache
+D:\mycode\csharp\abstractizarea\teorie\teorie\obj\Debug\net7.0\teorie.AssemblyInfo.cs
+D:\mycode\csharp\abstractizarea\teorie\teorie\obj\Debug\net7.0\teorie.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\abstractizarea\teorie\teorie\obj\Debug\net7.0\teorie.dll
+D:\mycode\csharp\abstractizarea\teorie\teorie\obj\Debug\net7.0\refint\teorie.dll
+D:\mycode\csharp\abstractizarea\teorie\teorie\obj\Debug\net7.0\teorie.pdb
+D:\mycode\csharp\abstractizarea\teorie\teorie\obj\Debug\net7.0\teorie.genruntimeconfig.cache
+D:\mycode\csharp\abstractizarea\teorie\teorie\obj\Debug\net7.0\ref\teorie.dll
